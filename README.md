@@ -1,5 +1,10 @@
-### Hi there 👋
+### Nice to meet you! I'm Adam :v:
 
+:computer: Senior Software Engineer @ [Coolfire](https://www.coolfiresolutions.com/)
+
+:frog: Maker and breaker of all things Android related
+
+:boy: he/him
 <!--
 **adamhilton/adamhilton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
