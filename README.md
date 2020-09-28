@@ -1,6 +1,6 @@
 ### Nice to meet you! I'm Adam :v:
 
-:computer: Senior Software Engineer @ [Coolfire](https://www.coolfiresolutions.com/)
+:computer: Software Engineer
 
 :frog: Maker and breaker of all things Android related
 
